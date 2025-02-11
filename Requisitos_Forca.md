@@ -66,3 +66,15 @@ O sistema deve funcionar em dispositivos móveis e desktops.
 ### 3.4. Escalabilidade
 
 O sistema deve suportar até 1000 jogadores simultaneamente sem degradação perceptível de desempenho.
+
+## 4. Restrições
+
+O jogo será desenvolvido utilizando tecnologias web (HTML, CSS, JavaScript) e backend com Node.js.
+
+O banco de palavras será armazenado em um banco de dados NoSQL.
+
+O sistema seguirá as diretrizes de acessibilidade WCAG 2.1.
+
+## 5. Considerações Finais
+
+Este documento estabelece os requisitos para o desenvolvimento do jogo de forca. Eventuais revisões e melhorias podem ser feitas com o objetivo de aprimorar o projeto.
