@@ -42,3 +42,5 @@ O sistema deve permitir o armazenamento de estatísticas do jogador, como vitór
 O sistema deve oferecer um modo clássico, onde o jogador tenta adivinhar a palavra antes de esgotar as tentativas.
 
 O sistema deve oferecer um modo de tempo, onde o jogador precisa adivinhar a palavra antes do tempo acabar.
+
+## 3. Requisitos Não Funcionais
