@@ -23,6 +23,7 @@ Este projeto tem como objetivo desenvolver um jogo de forca online, oferecendo a
 
 ## Documentação
 Para mais detalhes sobre os requisitos do projeto, consulte o documento [Requisitos_Forca.md](./Requisitos_Forca.md).
+Link Respositório: https://github.com/LuccaHP/forca_ponderada
 
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias! Basta seguir os passos:
