@@ -44,3 +44,25 @@ O sistema deve oferecer um modo clássico, onde o jogador tenta adivinhar a pala
 O sistema deve oferecer um modo de tempo, onde o jogador precisa adivinhar a palavra antes do tempo acabar.
 
 ## 3. Requisitos Não Funcionais
+
+### 3.1. Desempenho
+
+O sistema deve carregar a interface principal em menos de 2 segundos.
+
+O tempo de resposta para validação de uma letra deve ser inferior a 500ms.
+
+### 3.2. Segurança
+
+O sistema deve armazenar senhas de forma criptografada.
+
+O sistema deve impedir tentativas de força bruta no login.
+
+### 3.3. Compatibilidade
+
+O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge, Safari).
+
+O sistema deve funcionar em dispositivos móveis e desktops.
+
+### 3.4. Escalabilidade
+
+O sistema deve suportar até 1000 jogadores simultaneamente sem degradação perceptível de desempenho.
