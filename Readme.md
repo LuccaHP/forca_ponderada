@@ -3,6 +3,9 @@
 ## Descrição
 Este projeto tem como objetivo desenvolver um jogo de forca online, oferecendo aos jogadores uma experiência interativa e acessível. O sistema permitirá partidas individuais contra o computador e partidas multiplayer entre dois jogadores, com diferentes modos de jogo e uma interface responsiva.
 
+## Propósito da atividade
+Esta atividade tem como objetivo principal desenvolver importantes habilidades na engenharia de software, incluindo levantamento de requisitos, gestão de documentos com controle de versão e publicação de projetos em repositórios online. A prática envolverá a definição de requisitos funcionais e não funcionais para um jogo de forca online, além da utilização do Git para versionamento e do GitHub para compartilhamento do documento.
+
 ## Funcionalidades
 - Partidas individuais contra o computador.
 - Partidas multiplayer entre dois jogadores.
